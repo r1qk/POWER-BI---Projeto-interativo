@@ -3,11 +3,10 @@
 Este repositório contém um dashboard interativo desenvolvido no Power BI para uma empresa fictícia chamda Cronos, com o objetivo de analisar dados de forma clara e orientada à tomada de decisões. O dashboard permite explorar dados por meio de filtros quefacilitam a identificação de padrões, tendências e insights relevantes.
 
 ### Ferramentas utilizadas
-- Power BI
-- Linguagem DAX
-- Power Query
-- Power Point
 - Excel
+- Power Point
+- Power Query
+- Power BI
 
 ## Explicando o projeto
 ### 1) Excel
@@ -31,4 +30,15 @@ O Power BI foi a ferramenta utilizada para criar os gráficos interativos e os c
 
 <img width="814" height="447" alt="image" src="https://github.com/user-attachments/assets/7892a7a0-1a45-4be9-a8c3-e2ab380fa862" />
 
-### Resultado
+## Resultado
+[Clique aqui para ver vídeo do resultado!](https://www.youtube.com/watch?v=QDjj4TMqGQQ) 
+
+## Contato
+Aqui estão meus contatos caso queira apresentar uma sugestão!
+
+Email: riquelmesmatamoh@gmail.com | <img loading=lazy src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg" witdh="15" height="15"/>
+          
+
+Linkedin: [Riquelme Santos](https://www.linkedin.com/in/riquelme-santos-fiap/) | <img loading=lazy src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" witdh="20" height="20"/>
+          
+
