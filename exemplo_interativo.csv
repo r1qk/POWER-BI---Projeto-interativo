@@ -1,0 +1,31 @@
+FuncionarioID;Nome;Genero;Area;Cargo;Cidade;Estado;Data_Contratacao;Data_Desligamento;Salario;Tipo_Contrato;Idade
+1;Ana Souza;F;Administrativo;Assistente Adm;São Paulo;SP;10/03/2019;;3200;CLT;28
+2;João Lima;M;Comercial;Vendedor;Rio de Janeiro;RJ;15/07/2020;;4100;CLT;32
+3;Bruno Castro;M;Operações;Operador;Curitiba;PR;22/01/2018;;2900;CLT;29
+4;Carla Mendes;F;Marketing;Analista Mkt;São Paulo;SP;03/08/2021;;4500;CLT;27
+5;Pedro Reis;M;Logística;Almoxarife;Recife;PE;20/11/2017;15/05/2021;2600;CLT;34
+6;Laura Martins;F;Financeiro;Assistente Fin;Belo Horizonte;MG;12/04/2016;;3700;CLT;31
+7;Marcos Silva;M;Comercial;Executivo Vendas;Salvador;BA;19/09/2015;10/03/2020;5800;CLT;38
+8;Fernanda Alves;F;Operações;Operadora;Goiânia;GO;11/02/2022;;2800;CLT;25
+9;Ricardo Torres;M;Logística;Motorista;Santos;SP;02/12/2019;;3300;CLT;44
+10;Júlia Andrade;F;Financeiro;Analista Financeiro;São Paulo;SP;15/10/2020;;5200;CLT;30
+11;Tiago Ramos;M;Administrativo;Auxiliar Adm;Campinas;SP;09/05/2018;;3000;CLT;26
+12;Patrícia Nunes;F;RH;Assistente RH;São Paulo;SP;18/01/2021;;3600;CLT;29
+13;Diego Martins;M;Operações;Técnico Operações;Manaus;AM;30/06/2017;11/09/2019;3100;CLT;33
+14;Aline Rocha;F;Comercial;Assistente Comercial;Brasília;DF;01/07/2022;;3400;CLT;24
+15;Eduardo Prado;M;TI;Suporte Técnico;São Paulo;SP;14/04/2019;28/03/2022;4800;CLT;36
+16;Vanessa Santos;F;TI;Desenvolvedora Jr;Porto Alegre;RS;20/02/2020;;6200;CLT;27
+17;Guilherme Lopes;M;Marketing;Designer;Curitiba;PR;10/09/2021;;4200;CLT;31
+18;Renata Ribeiro;F;Logística;Coordenadora Log;Salvador;BA;02/02/2016;;6500;CLT;41
+19;Felipe Matos;M;Financeiro;Coordenador Fin;São Paulo;SP;19/12/2015;;7800;CLT;40
+20;Clara Figueiredo;F;Administrativo;Recepcionista;Rio de Janeiro;RJ;25/06/2019;;2600;CLT;23
+21;André Teixeira;M;Comercial;Vendedor;Recife;PE;11/03/2017;17/12/2021;3950;CLT;37
+22;Bianca Moura;F;Marketing;Assistente Mkt;Goiânia;GO;05/11/2018;;3500;CLT;26
+23;Hugo Ferreira;M;Operações;Operador;Campinas;SP;14/05/2020;;2900;CLT;30
+24;Sabrina Paiva;F;RH;Analista RH;Belo Horizonte;MG;10/12/2021;;4700;CLT;28
+25;Marcelo Farias;M;Financeiro;Analista Jr;Florianópolis;SC;01/03/2022;;4100;CLT;25
+26;Joyce Silva;F;Administrativo;Assistente Adm;Curitiba;PR;20/09/2020;;3100;CLT;24
+27;Rodrigo Pires;M;Comercial;Executivo Vendas;Salvador;BA;08/02/2021;;5900;CLT;35
+28;Natalia Coelho;F;Logística;Assistente Log;Vitória;ES;10/01/2019;20/09/2022;2900;CLT;30
+29;Alan Correia;M;TI;Analista Infra;São Paulo;SP;18/07/2018;;7000;CLT;39
+30;Camila Duarte;F;TI;Dev Pleno;Campinas;SP;07/06/2022;;8200;CLT;29
