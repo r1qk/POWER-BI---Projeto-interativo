@@ -1,6 +1,6 @@
 # Projeto POWER BI - Dashboard interativo com menu
 ## Visão geral
-Este repositório contém um dashboard interativo desenvolvido no Power BI para uma empresa fictícia chamda Cronos, com o objetivo de analisar dados de forma clara e orientada à tomada de decisões. O dashboard permite explorar dados por meio de filtros quefacilitam a identificação de padrões, tendências e insights relevantes.
+Este repositório contém um dashboard interativo desenvolvido no Power BI para uma empresa fictícia chamada Cronos, com o objetivo de analisar dados de forma clara e orientada à tomada de decisões. O dashboard permite explorar dados por meio de filtros que facilitam a identificação de padrões, tendências e insights relevantes.
 
 ### Ferramentas utilizadas
 - Excel
